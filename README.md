@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Link-sourceCode
+- 👋 Hi, I’m @sadlyLink
 - 👀 I’m interested in AI, computer science, game development, philosophiy and writing
 - 🌱 I’m currently learning how to programm an AI-Assistent
 - 💞️ I’m looking to collaborate on artificial intelligence, game development and other programming stuff
