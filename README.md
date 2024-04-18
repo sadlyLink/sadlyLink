@@ -1,4 +1,9 @@
-- 👋 Hello there, I’m @sadlyLink
-- 👀 I’m interested in AI, computer science, game development, philosophy and writing
-- 🌱 I’m currently working on my blog <https://sadly.link> (and here on <https://sadlylink.github.io>)
-- 📫 How to reach me: either using the links on <https://sadlylink.github.io> or more easily: <https://sadly.link/about> (includes email address with PGP encryption)
+## Hello there, I’m @sadlyLink 👋
+
+- 🔭 I’m currently working on my blog [sadly.link](https://sadly.link) and [sadlylink.github.io](https://sadlylink.github.io)
+- 👀 I’m interested in everything computer science, but also 
+- 📫 How to reach me: over the links provided here on GitHub or my blog's [about page](https://sadly.link/about) (PGP-Key for email on website)
+- [![GitLab](https://img.shields.io/badge/GitLab-Profile-blue?style=flat&logo=gitlab)](https://gitlab.com/sadlylink)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=sadlylink&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sadlylink&layout=compact)
