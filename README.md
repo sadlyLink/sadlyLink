@@ -23,7 +23,7 @@ For other contact options and socials please visit <https://sadly.link/about>
 
 ### Keyoxid
 
-You can verify my ownership over this account, my GitHub profile and my website through: [Keyoxid](https://keyoxide.org/aspe%3Akeyoxide.org%3A3SNJRUZK32FR7YZFBJ3G5N6FBA)
+You can verify my ownership over this and some other accounts via [Keyoxid](https://keyoxide.org/aspe%3Akeyoxide.org%3A3SNJRUZK32FR7YZFBJ3G5N6FBA)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=sadlylink&count_private=true&theme=react&hide_border=true&bg_color=0D1117)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sadlylink&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117)
