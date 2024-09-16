@@ -12,6 +12,8 @@ Currently I am working on my blog <https://sadly.link>
 
 You can contact me via [info@sadly.link](mailto:info@sadly.link) and write me end-to-end encrypted via my [PGP public key](https://keys.openpgp.org/search?q=info%40sadly.link).
 
+**Fingerprint:** `ddfa 6688 b972 c079 9047 4c72 ced4 01ad 798e 0de1`
+
 ### Kryptor
 
 For more modern encryption, I would recommend using [Kryptor](https://kryptor.co.uk)
