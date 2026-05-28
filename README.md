@@ -14,13 +14,6 @@ You can contact me via [info@sadly.link](mailto:info@sadly.link) and write me en
 
 **Fingerprint:** `ddfa 6688 b972 c079 9047 4c72 ced4 01ad 798e 0de1`
 
-### Kryptor
-
-For more modern encryption, I would recommend using [Kryptor](https://kryptor.co.uk)
-
-- **Public Signing Key:** `Ed//HH3ru7EjBZcKBxaHicMqYNtYRxYxkdcXVaTNnFT5xPU=`
-- **Public Encryption Key:** `Cu//ULWhh4BN+7XQSuEzgrju3cWgtBA5ObDDYr3aA/imsRc=`
-
 For other contact options and socials please visit <https://sadly.link/about>
 
 ### Keyoxid
